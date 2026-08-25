@@ -203,7 +203,7 @@ async def show_home_menu(message_or_callback):
         f"👑 <b>{BRAND_NAME} STRING SESSION GENERATOR</b> 👑\n\n"
         f"👋 Welcome {user_mention}!\n\n"
         f"Select an option below to generate your string session safely and fast.\n\n"
-        f"⚡ <b>POWERED BY:</b> {BRAND_NAME}"
+        f"⚡ <b>DEVELOR BY:</b> {BRAND_NAME}"
     )
     
     if isinstance(message_or_callback, Message):
@@ -246,7 +246,7 @@ async def help_menu_callback(client: Client, callback_query: CallbackQuery):
     await callback_query.message.edit_text(
         f"📖 <b>Instructions & Help:</b>\n\n"
         f"1. Click on <b>Generate Session</b> or send /generate.\n"
-        f"2. Select <b>Pyrogram (V1)</b> for Userbots.\n"
+        f"2. Select <b>Pyrogram (V2)</b> for Userbots.\n"
         f"3. Send your `API_ID` & `API_HASH` (or send /skip for default credentials).\n"
         f"4. Send Phone Number, OTP, and 2FA password.\n"
         f"5. Receive your Session instantly!\n\n"
