@@ -1,13 +1,13 @@
 <h1 align="center"><b>⚡ Telegram Pyrogram V2 String Session Generator ⚡</b></h1>
 
 <h3 align="center">
-  <a href="https://heroku.com/deploy?template=https://github.com/Simple-Boy-1k/Satkar-string-session">
+  <a href="https://heroku.com/deploy?template=https://github.com/pallavisarkaar07/Satkar-string-session">
     <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku">
   </a>
 </h3>
 
 <p align="center">
-  <b>☆𝙎𝘼𝙍𝙆𝘼𝙍 メ 𝙉𝙊𝙓☆</b><br>
+  <b>☆loveme☆</b><br>
   <i>Advanced Pyrogram Session Generator Bot with Force Subscribe, User Mention & Custom API Support.</i>
 </p>
 
@@ -26,7 +26,7 @@
 ## 🛠 How to Deploy on Heroku
 
 1. Click the **Deploy to Heroku** button above or click here:  
-   👉 [Deploy to Heroku](https://heroku.com/deploy?template=https://github.com/Simple-Boy-1k/Satkar-string-session)
+   👉 [Deploy to Heroku](https://heroku.com/deploy?template=https://github.com/pallavisarkaar07/Satkar-string-session)
 2. Fill in your required Environment Variables:
    * **`API_ID`**: Your Telegram API ID.
    * **`API_HASH`**: Your Telegram API Hash.
@@ -44,6 +44,6 @@
 5. Enter the OTP and 2FA password (if enabled) to receive your secure Pyrogram V2 Session String along with your linked name!
 
 <p align="center">
-  <b>DEVELOPER / BRANDING: ☆𝙎𝘼𝙍𝙆𝘼𝙍 メ 𝙉𝙊𝙓☆ | RDX | SK</b><br>
-  <i>नॉक्स भाई और उनके दोस्त को चोर के साबकी माकी Chu*😂</i>
+  <b>DEVELOPER / BRANDING: ☆love☆ | me | SK</b><br>
+  <i>love me
 </p>
