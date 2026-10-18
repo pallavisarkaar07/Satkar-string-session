@@ -20,7 +20,7 @@ RAW_MUST_JOIN = os.environ.get("MUST_JOIN", "").strip()
 RAW_MUST_JOIN_LINK = os.environ.get("MUST_JOIN_LINK", "").strip()
 
 # Custom Brand Name Config
-BRAND_NAME = os.environ.get("BRAND_NAME", "𝐒𝐀𝐑𝐊𝐀𝐑").strip()
+BRAND_NAME = os.environ.get("BRAND_NAME", "LOVE").strip()
 
 def setup_force_sub():
     chat_target = None
@@ -310,7 +310,7 @@ async def skip_api_credentials(client: Client, message: Message):
         await message.reply_text("Please enter your <b>Bot Token</b>:")
     else:
         USER_DATA[user_id]["step"] = "phone"
-        await message.reply_text("Please send your <b>Phone Number</b> with country code (e.g., `+919876543210`):")
+        await message.reply_text("Please send your <b>Phone Number</b> with country code (e.g., `+971525276102`):")
 
 # Input Handler
 @app.on_message(filters.private & ~filters.command(["start", "generate", "skip"]))
@@ -341,7 +341,7 @@ async def handle_inputs(client: Client, message: Message):
             await message.reply_text("Please enter your <b>Bot Token</b>:")
         else:
             USER_DATA[user_id]["step"] = "phone"
-            await message.reply_text("Please send your <b>Phone Number</b> with country code (e.g., `+919876543210`):")
+            await message.reply_text("Please send your <b>Phone Number</b> with country code (e.g., `+971525276102`):")
 
     # Step 3: Phone Number & Send OTP
     elif step == "phone":
