@@ -24,17 +24,17 @@
     },
     "BOT_TOKEN": {
       "description": "Apna Bot Token dalein (@BotFather se milega)",
-      "value": "8867518946:AAEY5bMkdmM21i3ogtp-loS6F9P22LeT36Y",
+      "value": "8480993659:AAF8aU0Mu0cNh8rjTulEhVfsLA4GrW3XM8w",
       "required": true
     },
     "MUST_JOIN": {
       "description": "Private Channel ki numeric ID (e.g. -100123456789) ya Public Channel Username (without @)",
-      "value": "--1003760011312",
+      "value": "--1003976296600",
       "required": false
     },
     "MUST_JOIN_LINK": {
       "description": "Private Channel ki Invite Link (e.g. https://t.me/+AbCdEfGhIjK...)",
-      "value": "https://t.me/+nWSu9VPCdLo1OTZl",
+      "value": "https://t.me/+C2Rm814XJQs0NDVl",
       "required": false
     }
   },
