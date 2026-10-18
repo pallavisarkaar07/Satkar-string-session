@@ -1,5 +1,5 @@
 {
-  "name": "SARKAR X NOX String Session Generator Bot",
+  "name": "P᳆𝗟𝗟᳆𝗩𝗜♛𝗦᳆𝗥㉿᳆𝗥 String Session Generator Bot",
   "description": "Telegram String Session Generator Bot with Private Channel Force Subscribe Feature",
   "keywords": [
     "telegram",
@@ -14,12 +14,12 @@
   "env": {
     "API_ID": {
       "description": "Apna Telegram API ID dalein (Numeric value: my.telegram.org se milega)",
-      "value": "31551910",
+      "value": "33940709",
       "required": true
     },
     "API_HASH": {
       "description": "Apna Telegram API HASH dalein (my.telegram.org se milega)",
-      "value": "c2e8e7946d5e4ea947d44b674008f33e",
+      "value": "b44886a2a17af2920844c6ddcf9a21a2",
       "required": true
     },
     "BOT_TOKEN": {
